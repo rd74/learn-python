@@ -1,0 +1,4 @@
+*.py.swp
+*.py~
+**/__pycache__/**
+*.pyc
